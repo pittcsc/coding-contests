@@ -1,5 +1,5 @@
-# Hackerrank Contests Review
-This repo is aimed towards helping people with interview questions!
+# PittCSC Contests Page
+This repo is made to help people with interview questions!
 
 When applying for an internship or a full-time job, most big places ask tough coding/algorithm based interview questions. PittCSC hosts weekly contests to help people practice! Plus, a lot of officers have interviewed at places like Google, Facebook, Amazon, and more, so they can give concrete advice on how to help!
 
